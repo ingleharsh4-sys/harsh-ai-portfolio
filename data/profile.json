@@ -1,0 +1,138 @@
+{
+    "personal_information": {
+        "name": "Harsh Pralhadrao Ingle",
+        "location": "Pune, Maharashtra, India",
+        "hometown": "Amravati, Maharashtra, India",
+        "email": "ingleharsh4@gmail.com",
+        "professional_email": "harshingle.official@gmail.com",
+        "phone": "+91 9226688018",
+        "github": "https://github.com/ingleharsh4-sys"
+    },
+
+    "education": {
+        "degree": "Bachelor of Engineering",
+        "branch": "Computer Engineering",
+        "college": "International School of Business and Media, Pune [COE]",
+        "university": "Savitribai Phule Pune University (SPPU)",
+        "current_year": "4th Year",
+        "current_semester": "7th Semester",
+        "cgpa": "6.5/10",
+        "cgpa_semester": "6th Semester",
+        "hsc_percentage": "76.50%",
+        "ssc_percentage": "90%"
+    },
+
+    "technical_skills": {
+        "programming": [
+            "Python",
+            "Java",
+            "C++"
+        ],
+        "data_structures_and_algorithms": [
+            "Fundamental Data Structures",
+            "Algorithms",
+            "Problem Solving"
+        ],
+        "web": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "database": [
+            "MySQL"
+        ],
+        "ai_ml": [
+            "Machine Learning Fundamentals",
+            "Deep Learning Fundamentals",
+            "Convolutional Neural Networks (CNN)",
+            "Transfer Learning",
+            "YOLOv8"
+        ],
+        "tools_and_platforms": [
+            "VS Code",
+            "Power BI",
+            "Vercel",
+            "Google AI Studio"
+        ]
+    },
+
+    "projects": [
+        {
+            "name": "Runway Detection and Localization Using Deep Learning",
+            "type": "Final Year Project",
+            "team_size": 4,
+            "status": "In Development",
+            "objective": "Automatically detect and locate runways from aerial or terrain images using deep learning.",
+            "application": "Potential applications include UAV/drone navigation and automated landing scenarios.",
+            "technologies": [
+                "YOLOv8",
+                "Deep Learning",
+                "Convolutional Neural Networks (CNN)",
+                "Transfer Learning"
+            ],
+            "datasets": [
+                "LARD (Landing Approach Runway Detection Dataset)",
+                "Google Open Buildings",
+                "Google Earth imagery",
+                "Other open-source datasets"
+            ],
+            "contributions": [
+                "Research study",
+                "Dataset acquisition",
+                "Presentation",
+                "Technical exploration"
+            ],
+            "current_work": "The project is currently in development. Harsh has contributed primarily through research, dataset acquisition, presentation, and technical exploration.",
+            "model_training_status": "Model training has not yet been completed."
+        },
+
+        {
+            "name": "Resume Parser and Analyzer",
+            "type": "Personal Learning Project",
+            "status": "Personal-level experiment",
+            "objective": "Analyze a candidate's resume against a job description and determine how well the candidate fits the job.",
+            "functionality": [
+                "Analyzes resumes",
+                "Analyzes job descriptions",
+                "Extracts skills",
+                "Extracts education",
+                "Extracts experience",
+                "Compares candidate information with job requirements",
+                "Generates a job-fit verdict",
+                "Generates a percentage-based suitability result"
+            ],
+            "technologies": [
+                "Python",
+                "gpt-oss-120b",
+                "VS Code"
+            ],
+            "purpose": "A personal experimental project created to apply AI concepts and test learnings relevant to an AI Engineer career.",
+            "implementation_status": "Personal learning project; detailed production status is not specified."
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "Solutions Architecture Job Simulation",
+            "organization": "AWS",
+            "issuer": "Forage",
+            "status": "Certificate of Completion"
+        }
+    ],
+
+    "career_interests": [
+        "AI/ML Engineer",
+        "Computer Vision Engineer",
+        "Python Developer",
+        "Software Developer",
+        "Backend Developer",
+        "Data Scientist"
+    ],
+
+    "professional_experience": {
+        "has_professional_experience": false,
+        "internships": false,
+        "freelance_experience": false,
+        "part_time_experience": false
+    }
+}

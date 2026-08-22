@@ -1,0 +1,136 @@
+{
+  "name": "Harsh Pralhadrao Ingle",
+
+  "location": "Pune, Maharashtra, India",
+
+  "education": {
+    "degree": "Bachelor of Engineering",
+    "branch": "Computer Engineering",
+    "college": "International School of Business and Media, Pune [COE]",
+    "university": "Savitribai Phule Pune University (SPPU)",
+    "current_year": "4th Year",
+    "current_semester": "7th Semester",
+    "cgpa": "6.5",
+    "hsc_percentage": "76.50%",
+    "ssc_percentage": "90%"
+  },
+
+  "technical_skills": {
+    "programming": [
+      "Python",
+      "C++",
+      "Java",
+      "Data Structures and Algorithms"
+    ],
+
+    "web": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+
+    "database": [
+      "MySQL"
+    ],
+
+    "ai_ml": [
+      "Deep Learning",
+      "CNN",
+      "Computer Vision",
+      "YOLOv8",
+      "Transfer Learning",
+      "LLMs",
+      "Generative AI"
+    ],
+
+    "tools": [
+      "VS Code",
+      "Power BI",
+      "Vercel",
+      "Google AI Studio"
+    ],
+
+    "apis": [
+      "Groq API"
+    ]
+  },
+
+  "projects": [
+    {
+      "name": "Runway Detection and Localization Using Deep Learning",
+      "type": "Final-Year Project",
+      "team_size": 4,
+      "status": "In Development",
+
+      "objective": "Automatically detect and locate runways in aerial and terrain imagery using deep learning, with potential applications involving UAVs, drones and automated landing systems.",
+
+      "technologies": [
+        "YOLOv8",
+        "Deep Learning",
+        "CNN",
+        "Computer Vision",
+        "Transfer Learning"
+      ],
+
+      "datasets": [
+        "LARD (Landing Approach Runway Detection Dataset)",
+        "Google Open Buildings",
+        "Google Earth imagery",
+        "Other open-source datasets"
+      ],
+
+      "contributions": [
+        "Research study",
+        "Dataset acquisition",
+        "Project presentation",
+        "Technical exploration",
+        "Project development"
+      ],
+
+      "model_training_status": "Model training and final evaluation are still in development."
+    },
+
+    {
+      "name": "Resume Parser and Analyzer",
+      "type": "Personal AI Learning Project",
+      "status": "Personal Experimental Project",
+
+      "objective": "Analyze a resume against a job description and evaluate how well a candidate matches the role.",
+
+      "technologies": [
+        "Python",
+        "gpt-oss-120b",
+        "VS Code"
+      ],
+
+      "features": [
+        "Resume parsing",
+        "Skill extraction",
+        "Education extraction",
+        "Experience extraction",
+        "Resume and job-description comparison",
+        "Candidate-job fit assessment"
+      ]
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Solutions Architecture Job Simulation",
+      "type": "Certificate of Completion",
+      "issuer": "Forage",
+      "associated_organization": "AWS"
+    }
+  ],
+
+  "career_interests": [
+    "AI/ML Engineer",
+    "Computer Vision Engineer",
+    "Data Scientist",
+    "Python Developer",
+    "Software Developer",
+    "Backend Developer"
+  ],
+
+  "github": "https://github.com/ingleharsh4-sys"
+}
