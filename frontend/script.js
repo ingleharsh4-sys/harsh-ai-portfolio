@@ -1,3 +1,5 @@
+const API_URL = "http://127.0.0.1:8000";
+
 const chatBox = document.getElementById("chat-box");
 const userInput = document.getElementById("user-input");
 const sendButton = document.getElementById("send-btn");
@@ -79,7 +81,7 @@ chatBox.scrollTop = chatBox.scrollHeight;
     try {
 
         const response = await fetch(
-            "http://127.0.0.1:8000/chat",
+            `${API_URL}/chat`,
             {
                 method: "POST",
 
