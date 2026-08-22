@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://harsh-ai-portfolio-api.onrender.com";
 
 const chatBox = document.getElementById("chat-box");
 const userInput = document.getElementById("user-input");
